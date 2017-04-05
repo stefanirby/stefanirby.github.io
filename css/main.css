@@ -1,0 +1,77 @@
+html, body {
+	width: 100%;
+	margin: 0;
+  background: #232741;
+  overflow: hidden;
+}
+
+a {
+color: #FFF;
+-o-transition: color 0.25s linear;
+-moz-transition: color 0.25s linear;
+-khtml-transition: color 0.25s linear;
+-webkit-transition: color 0.25s linear;
+-ms-transition: color 0.25s linear;
+transition: color 0.25s linear;
+text-decoration: none;
+}
+
+a:hover {
+  color: #C0C0C0;
+}
+
+.wrapper {
+  text-align: center;
+	position: absolute;
+	top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+}
+.name {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 60px;
+  color: #FEFEFE;
+}
+.desc {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: #FEFEFE;
+  margin: 20px auto;
+  width: 600px;
+	text-align: justify;
+	text-justify: inter-word;
+}
+.links {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#particles-js{
+  width: 100%;
+  height: 100vh;
+  background-image: url('');
+}
+
+#satellite img {
+
+	position: absolute;
+	top: 15%;
+  width: 15%;
+  transform: translate(100%, -25%);
+
+}
+
+
+a {
+color: #FFF;
+-o-transition: color 0.25s linear;
+-moz-transition: color 0.25s linear;
+-khtml-transition: color 0.25s linear;
+-webkit-transition: color 0.25s linear;
+-ms-transition: color 0.25s linear;
+transition: color 0.25s linear;
+text-decoration: none;
+}
+
+a:hover {
+  color: #C0C0C0;
+}
