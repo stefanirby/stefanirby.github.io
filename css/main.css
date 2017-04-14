@@ -1,7 +1,7 @@
 html, body {
 	width: 100%;
 	margin: 0;
-  background: #2c2747;
+  background: #4d4d4d;
   overflow: hidden;
 }
 
@@ -41,8 +41,19 @@ a:hover {
 	text-align: justify;
 	text-justify: inter-word;
 }
-.links {
+.contact {
+	font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  color: #FEFEFE;
+  margin: 10px auto;
+  width: 600px;
+	line-height: 65%;
+	text-align: justify;
+	text-justify: inter-word;
+}
+.links img {
   font-family: 'Montserrat', sans-serif;
+	margin-left: 20px;
 }
 
 #particles-js{
